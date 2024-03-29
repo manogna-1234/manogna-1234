@@ -1,4 +1,8 @@
-[![MasterHead](https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif)](https://manogna-1234.io)
+
+<a href="https://manogna-1234.io">
+  <img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" alt="MasterHead" width="100%" style="max-width:100%; height:auto;">
+</a>
+
 <h1 align="center">Hi 👋, I'm Manogna</h1>
 <h3 align="center">A passionate Programmer,Data Scientist from India</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIHCH73QMnbxsN9IFXcMZk2gtEE79xVWrWwbVNLfMIIQ&s">
