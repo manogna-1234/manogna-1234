@@ -8,7 +8,7 @@
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIHCH73QMnbxsN9IFXcMZk2gtEE79xVWrWwbVNLfMIIQ&s">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manogna-1234&label=Profile%20views&color=0e75b6&style=flat" alt="manogna-1234" /> </p>
 
-- 🌱 I’m currently learning **Power BI,Dockers**
+- 🌱 I’m currently learning **PowerBI,Dockers**
 
 - 💬 Ask me about **Python,CPP,C,Machine Learning Algorithms,EDA**
 
